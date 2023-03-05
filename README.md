@@ -1,3 +1,7 @@
+<!-- views counter -->
+![](https://komarev.com/ghpvc/?username=rahul241172&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ### Hi 👋 I'm Rahul Gandhi
 
 <!--
