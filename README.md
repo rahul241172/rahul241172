@@ -46,4 +46,4 @@
 <hr>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tina3399&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rahul241172&theme=radical&no-frame=false&no-bg=true&margin-w=4)
