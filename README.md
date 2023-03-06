@@ -44,3 +44,6 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
 </p>
 <hr>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tina3399&theme=radical&no-frame=false&no-bg=true&margin-w=4)
